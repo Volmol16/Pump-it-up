@@ -62,6 +62,7 @@ section h1 {
     font-weight: 800;
     font-size: 64;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-height: 20vh;
 }
 
 .info2 {
